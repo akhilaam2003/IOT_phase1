@@ -1,2 +1,2 @@
-# AkhilaIOT_phase1
+# AkhilaIOT
 phase1 project
